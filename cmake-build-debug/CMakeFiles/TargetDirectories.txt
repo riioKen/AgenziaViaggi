@@ -1,0 +1,3 @@
+D:/GitHub/C/Agenzia-Viaggi-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/C/Agenzia-Viaggi-C/cmake-build-debug/CMakeFiles/Agenzia_Viaggi_C.dir
+D:/GitHub/C/Agenzia-Viaggi-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
